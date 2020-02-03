@@ -38,23 +38,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\ProjetosPCB\RA-maneger\RA-Manager-hw\circuit_board\controller\RFFE_Controller.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WISOGENM
-
-[Document2]
 DocumentPath=RA-Manager_Controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -70,6 +53,27 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLUDVKIS
+
+[Document2]
+DocumentPath=RA-Manager_Controller.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WISOGENM
+
+[GeneratedDocument1]
+DocumentPath=RA-Manager_Controller 31-01-2020 13-17-58.WAS
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
