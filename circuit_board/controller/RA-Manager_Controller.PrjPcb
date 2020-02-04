@@ -72,6 +72,10 @@ GenerateClassCluster=0
 DocumentUniqueId=WISOGENM
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for RA-Manager_Controller\Design Rule Check - RA-Manager_Controller.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=RA-Manager_Controller 31-01-2020 13-17-58.WAS
 DItemRevisionGUID=
 
@@ -243,7 +247,7 @@ TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
-OutputDocumentPath1=R:\Grupos\DIG\Projetos\Ativos\RAB_FE_EBPM\Controle RFFE\RFFE_Controller_v4\RFFE_Controller_v4.PcbDoc
+OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.70|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter
