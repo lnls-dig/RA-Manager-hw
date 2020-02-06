@@ -79,6 +79,10 @@ DItemRevisionGUID=
 DocumentPath=RA-Manager_Controller 31-01-2020 13-17-58.WAS
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Schlib1.cmp
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
