@@ -1,0 +1,69 @@
+Protel Design System Design Rule Check
+PCB File : C:\ProjetosPCB\RA-Manager\RA-Manager-hw\circuit_board\Controller\RA-Manager_Controller.PcbDoc
+Date     : 10/02/2020
+Time     : 10:16:53
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+   Violation between Clearance Constraint: (0.25mm < 0.254mm) Between Pad T1-1(46.75mm,63.95mm) on Top Layer And Pad T1-2(46.75mm,63.3mm) on Top Layer 
+   Violation between Clearance Constraint: (0.25mm < 0.254mm) Between Pad T1-2(46.75mm,63.3mm) on Top Layer And Pad T1-3(46.75mm,62.65mm) on Top Layer 
+   Violation between Clearance Constraint: (0.25mm < 0.254mm) Between Pad T1-2(46.75mm,63.3mm) on Top Layer And Track (46.75mm,62.65mm)(47.55mm,62.65mm) on Top Layer 
+   Violation between Clearance Constraint: (0.25mm < 0.254mm) Between Pad T1-4(48.95mm,62.65mm) on Top Layer And Pad T1-5(48.95mm,63.3mm) on Top Layer 
+   Violation between Clearance Constraint: (0.25mm < 0.254mm) Between Pad T1-5(48.95mm,63.3mm) on Top Layer And Pad T1-6(48.95mm,63.95mm) on Top Layer 
+   Violation between Clearance Constraint: (0.25mm < 0.254mm) Between Pad T1-5(48.95mm,63.3mm) on Top Layer And Track (48.95mm,63.95mm)(50.225mm,63.95mm) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (InComponent('Ic6') or InComponent('T18')or InComponent('LD1') or InComponent('Ic1')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InComponent('J1') or InComponent('RFFE_v2_AC')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetJ2_29 Between Track (72.25mm,61.46mm)(77.33mm,61.46mm) on Top Layer And Pad J4-1(77.475mm,66.32mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_31 Between Track (72.25mm,58.92mm)(77.33mm,58.92mm) on Top Layer And Pad J4-2(77.475mm,63.78mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_33 Between Track (72.25mm,56.38mm)(77.33mm,56.38mm) on Top Layer And Pad J4-3(77.475mm,61.24mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_35 Between Track (72.25mm,53.84mm)(77.33mm,53.84mm) on Top Layer And Pad J4-4(77.475mm,58.7mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_37 Between Track (72.25mm,51.3mm)(77.33mm,51.3mm) on Top Layer And Pad J4-5(77.475mm,56.16mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetJ2_39 Between Track (72.25mm,48.76mm)(77.33mm,48.76mm) on Top Layer And Pad J4-6(77.475mm,53.62mm) on Multi-Layer 
+Rule Violations :6
+
+Processing Rule : Width Constraint (Min=0.203mm) (Max=1.27mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=3.81mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (72.25mm,48.76mm)(77.33mm,48.76mm) on Top Layer 
+   Violation between Net Antennae: Track (72.25mm,51.3mm)(77.33mm,51.3mm) on Top Layer 
+   Violation between Net Antennae: Track (72.25mm,53.84mm)(77.33mm,53.84mm) on Top Layer 
+   Violation between Net Antennae: Track (72.25mm,56.38mm)(77.33mm,56.38mm) on Top Layer 
+   Violation between Net Antennae: Track (72.25mm,58.92mm)(77.33mm,58.92mm) on Top Layer 
+   Violation between Net Antennae: Track (72.25mm,61.46mm)(77.33mm,61.46mm) on Top Layer 
+Rule Violations :6
+
+Processing Rule : Height Constraint (Min=0mm) (Max=28mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 18
+Waived Violations : 0
+Time Elapsed        : 00:00:00
