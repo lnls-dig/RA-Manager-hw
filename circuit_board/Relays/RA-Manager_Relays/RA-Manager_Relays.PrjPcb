@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WISOGENM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for RA-Manager_Relays\Design Rule Check - RA-Manager_Relays.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
