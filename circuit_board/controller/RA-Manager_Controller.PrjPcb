@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for RA-Manager_Controller
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -311,7 +311,7 @@ GlobalBookmarks=0
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=Project Outputs for RA-Manager_Controller
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1167,7 +1167,7 @@ Type6=2
 Type7=1
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1283,14 +1283,14 @@ Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEWNEWNEEWN
+L2=NNNNNNNNNWNWNWNWN
+L3=NNEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
-L8=NWEENEENEEENNEENN
-L9=NWWENEEEENEWNEEWW
+L8=NNEENEENEEENNEENN
+L9=NNEENEEEENEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
