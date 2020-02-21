@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for RA-Manager_Controller
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -156,112 +156,249 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document8]
+DocumentPath=RA-Manager_Controller.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for RA-Manager_Controller\Design Rule Check - RA-Manager_Controller.html
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=RA-Manager_Controller 31-01-2020 13-17-58.WAS
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.DRL
+DocumentPath=Project Outputs for RA-Manager_Controller\Design Rule Check - RA-Manager_Controller.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.DRR
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.EXTREP
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBL
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBO
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBP
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBS
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GD1
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GG1
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GKO
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM1
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM8
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM13
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM14
+DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM15
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GPB
+DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for RA-Manager_Controller.txt
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GPT
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTL
+DocumentPath=RA-Manager_Controller 31-01-2020 13-17-58.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTO
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTP
+DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Controller.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTS
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.LDP
+DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Controller.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.REP
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.RUL
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument27]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM8
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\DRC\RA-Manager_Controller.html
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Free Documents\ERC\RA-Manager_Controller.html
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Controller.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Controller.REP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Free Documents\ODB\RA-Manager_Controller.REP
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.REP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Controller.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Controller.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument54]
 DocumentPath=Project Outputs for RA-Manager_Controller\RA-Manager_Controller.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
 [Configuration1]
@@ -311,7 +448,7 @@ GlobalBookmarks=0
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for RA-Manager_Controller
 
 [OutputGroup1]
 Name=Netlist Outputs
