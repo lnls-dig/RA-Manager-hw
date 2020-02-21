@@ -72,57 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WISOGENM
 
 [Document3]
-DocumentPath=Project Outputs for RA-Manager_Relays\CAMtastic1_Gerber.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document4]
-DocumentPath=Project Outputs for RA-Manager_Relays\CAMtastic1_Drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=RA-Manager_Relays.BomDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=RA-Manager_Relays.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -144,603 +93,323 @@ DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for RA-Manager_Relays\Design Rule Check - RA-Manager_Relays.html
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_8\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_14\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\mechanical_14\features
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\mechanical_14\features
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument59]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument60]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument62]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument63]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument65]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for RA-Manager_Relays.csv
 DItemRevisionGUID=
 
-[GeneratedDocument66]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for RA-Manager_Relays\Pick Place\Pick Place for RA-Manager_Relays.csv
 DItemRevisionGUID=
 
-[GeneratedDocument67]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument68]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument70]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.1
 DItemRevisionGUID=
 
-[GeneratedDocument71]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.1
 DItemRevisionGUID=
 
-[GeneratedDocument72]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.2
 DItemRevisionGUID=
 
-[GeneratedDocument73]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.2
 DItemRevisionGUID=
 
-[GeneratedDocument74]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.3
 DItemRevisionGUID=
 
-[GeneratedDocument75]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.3
 DItemRevisionGUID=
 
-[GeneratedDocument76]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Relays.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument77]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for RA-Manager_Relays\NC Drill\RA-Manager_Relays.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument78]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument79]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument80]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument81]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument82]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument83]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument84]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument85]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument86]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument87]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument88]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument89]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument90]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument91]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument92]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument93]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument94]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument95]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument96]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument97]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument98]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument99]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument100]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument101]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument102]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument103]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument104]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument105]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument106]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument107]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument108]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument109]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GML
 DItemRevisionGUID=
 
-[GeneratedDocument110]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GML
 DItemRevisionGUID=
 
-[GeneratedDocument111]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument112]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument113]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument114]
+[GeneratedDocument59]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument115]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument116]
+[GeneratedDocument60]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument117]
+[GeneratedDocument61]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument118]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument119]
+[GeneratedDocument62]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument120]
+[GeneratedDocument63]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument121]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument122]
+[GeneratedDocument64]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument123]
+[GeneratedDocument65]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument124]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument125]
+[GeneratedDocument66]
 DocumentPath=Project Outputs for Free Documents\DRC\RA-Manager_Relays.html
 DItemRevisionGUID=
 
-[GeneratedDocument126]
+[GeneratedDocument67]
 DocumentPath=Project Outputs for Free Documents\ERC\RA-Manager_Relays.html
 DItemRevisionGUID=
 
-[GeneratedDocument127]
+[GeneratedDocument68]
 DocumentPath=Project Outputs for RA-Manager_Relays\DRC\RA-Manager_Relays.html
 DItemRevisionGUID=
 
-[GeneratedDocument128]
+[GeneratedDocument69]
 DocumentPath=Project Outputs for RA-Manager_Relays\ERC\RA-Manager_Relays.html
 DItemRevisionGUID=
 
-[GeneratedDocument129]
+[GeneratedDocument70]
 DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Relays.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument130]
+[GeneratedDocument71]
 DocumentPath=Project Outputs for RA-Manager_Relays\NC Drill\RA-Manager_Relays.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument131]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument132]
+[GeneratedDocument72]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.REP
 DItemRevisionGUID=
 
-[GeneratedDocument133]
+[GeneratedDocument73]
 DocumentPath=Project Outputs for Free Documents\ODB\RA-Manager_Relays.REP
 DItemRevisionGUID=
 
-[GeneratedDocument134]
+[GeneratedDocument74]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.REP
 DItemRevisionGUID=
 
-[GeneratedDocument135]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\RA-Manager_Relays.REP
-DItemRevisionGUID=
-
-[GeneratedDocument136]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.REP
-DItemRevisionGUID=
-
-[GeneratedDocument137]
+[GeneratedDocument75]
 DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument138]
+[GeneratedDocument76]
 DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument139]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument140]
+[GeneratedDocument77]
 DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Relays.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument141]
+[GeneratedDocument78]
 DocumentPath=Project Outputs for RA-Manager_Relays\NC Drill\RA-Manager_Relays.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument142]
-DocumentPath=Project Outputs for RA-Manager_Relays\RA-Manager_Relays.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument143]
+[GeneratedDocument79]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument144]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument145]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument146]
+[GeneratedDocument80]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
-[GeneratedDocument147]
+[GeneratedDocument81]
 DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
-[GeneratedDocument148]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument149]
-DocumentPath=Project Outputs for RA-Manager_Relays\ODB\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
-[GeneratedDocument150]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument151]
-DocumentPath=Project Outputs for RA-Manager_Relays\odb\steps\pcb\layers\rout\tools
 DItemRevisionGUID=
 
 [Configuration1]
