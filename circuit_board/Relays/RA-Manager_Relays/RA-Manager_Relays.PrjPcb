@@ -71,347 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WISOGENM
 
-[Document3]
-DocumentPath=RA-Manager_Relays.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for RA-Manager_Relays\Design Rule Check - RA-Manager_Relays.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_14\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Pick Place\Pick Place for RA-Manager_Relays.csv
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for RA-Manager_Relays\Pick Place\Pick Place for RA-Manager_Relays.csv
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.1
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.1
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.2
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.2
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.3
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.3
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Relays.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for RA-Manager_Relays\NC Drill\RA-Manager_Relays.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GML
-DItemRevisionGUID=
-
-[GeneratedDocument57]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GML
-DItemRevisionGUID=
-
-[GeneratedDocument58]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument59]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument60]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument61]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument62]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument63]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument64]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument65]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument66]
-DocumentPath=Project Outputs for Free Documents\DRC\RA-Manager_Relays.html
-DItemRevisionGUID=
-
-[GeneratedDocument67]
-DocumentPath=Project Outputs for Free Documents\ERC\RA-Manager_Relays.html
-DItemRevisionGUID=
-
-[GeneratedDocument68]
-DocumentPath=Project Outputs for RA-Manager_Relays\DRC\RA-Manager_Relays.html
-DItemRevisionGUID=
-
-[GeneratedDocument69]
-DocumentPath=Project Outputs for RA-Manager_Relays\ERC\RA-Manager_Relays.html
-DItemRevisionGUID=
-
-[GeneratedDocument70]
-DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Relays.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument71]
-DocumentPath=Project Outputs for RA-Manager_Relays\NC Drill\RA-Manager_Relays.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument72]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.REP
-DItemRevisionGUID=
-
-[GeneratedDocument73]
-DocumentPath=Project Outputs for Free Documents\ODB\RA-Manager_Relays.REP
-DItemRevisionGUID=
-
-[GeneratedDocument74]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.REP
-DItemRevisionGUID=
-
-[GeneratedDocument75]
-DocumentPath=Project Outputs for Free Documents\Gerber\RA-Manager_Relays.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument76]
-DocumentPath=Project Outputs for RA-Manager_Relays\Gerber\RA-Manager_Relays.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument77]
-DocumentPath=Project Outputs for Free Documents\NC Drill\RA-Manager_Relays.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument78]
-DocumentPath=Project Outputs for RA-Manager_Relays\NC Drill\RA-Manager_Relays.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument79]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument80]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument81]
-DocumentPath=Project Outputs for Free Documents\ODB\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -464,7 +123,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -570,7 +229,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -642,7 +301,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -664,7 +323,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
@@ -748,7 +407,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -785,7 +444,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -965,7 +624,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1009,7 +668,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1070,7 +729,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=BMP61 (Copiar 1)
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
